@@ -8,15 +8,21 @@ This project analyzes a state/UT-level COVID-19 dataset for India using Microsof
 
 ## Dashboard Preview
 
-> Upload the real workbook screenshot as `screenshots/01-dashboard.png`.
-
 ![COVID-19 India Excel Dashboard](screenshots/01-dashboard.png)
 
-## Dataset Preview
+## Workbook Analysis Screenshots
 
-> Upload the real data screenshot as `screenshots/02-data-overview.png`.
+### Death Ratio Analysis
 
-![COVID-19 India Dataset](screenshots/02-data-overview.png)
+![Death Ratio Analysis](screenshots/02-death-analysis.png)
+
+### Discharge Ratio Analysis
+
+![Discharge Ratio Analysis](screenshots/03-discharge-analysis.png)
+
+### Total Cases vs Discharged
+
+![Total Cases vs Discharged](screenshots/04-cases-recovered.png)
 
 ## Analytical Questions
 
@@ -105,9 +111,9 @@ covid-19-india-excel-dashboard/
 │   └── QUALITY_AUDIT.md
 └── screenshots/
     ├── 01-dashboard.png
-    ├── 02-data-overview.png
-    ├── 03-pivot-analysis.png
-    └── 04-analysis.png
+    ├── 02-death-analysis.png
+    ├── 03-discharge-analysis.png
+    └── 04-cases-recovered.png
 ```
 
 ## Skills Demonstrated
